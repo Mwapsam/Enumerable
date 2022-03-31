@@ -1,62 +1,53 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Enumerable
 
-> Description the project.
+> In this project we learnt how to use a module inside the class. We created a class MyList and a module MyEnumerable. The module MyEnumerable implements a subset of the functionality of Enumerable.
 
 
 ## Built With
 
-- Major languages
+- Ruby
 - Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- Git, VScode & Ubuntu terminal
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+- Ensure that Ruby is installed on your machine. You can download it [here](https://www.ruby-lang.org/en/downloads/releases/).
 
 ### Setup
+**Type the following commands in your terminal**
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+```
+ git clone https://github.com/Mwapsam/Enumerable.git
+ cd Enumerable
+ bundle install
+ ruby mylist.rb
+ ```
 
 ## Authors
 
-👤 **Author1**
+👤 **Mwape**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@mwapsam](https://github.com/Mwapsam)
+- Twitter: [@mwapesamuel4](https://twitter.com/mwapesamuel4)
+- LinkedIn: [mwapsam](https://www.linkedin.com/in/mwapsam/)
 
-👤 **Author2**
+👤 **Alick**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@alicknyerende](https://github.com/Beardless-sheik)
+- Twitter: [@beardless_sheik](https://twitter.com/Beardless_Sheik)
+- LinkedIn: [Alick Nyirenda](https://www.linkedin.com/in/alick-nyirenda/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Mwapsam/Enumerable/issues/).
 
 ## Show your support
 
